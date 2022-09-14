@@ -1,4 +1,4 @@
-# chlorine-sensor-app-demo
+# Chlorine Concentration Sensor Data App
 This application demonstrates how one can use Django and InfluxDB (a time series database) to store and manage data from IOT sensors.
 
 The data used in this demonstration was chlorine concentration data recorded via sensors. 
